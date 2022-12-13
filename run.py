@@ -1,6 +1,6 @@
 import os, sys
 os.system("git pull")
 try:
-    __import__("xxxx").main()
+    __import__("h4xgg").main()
 except Exception as e:
     exit(str(e))
