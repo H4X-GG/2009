@@ -1,5 +1,5 @@
 import os, sys 
-print ("Checking for Update")
+print ("\t\033[1:35mChecking for Update")
 os.system("git pull")
 try:
     __import__("h4xgg").main()
